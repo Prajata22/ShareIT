@@ -1,3 +1,5 @@
+> **Note:** This repository is based on [TrebleShot (trebleshot/android)](https://github.com/trebleshot/android) by its original authors and is kept here for reference. Credit and licence belong to the original project; use the original for the current version.
+
 # TrebleShot libre software file and text sharing app
 Send and receive files over available connections. [FAQ](https://github.com/genonbeta/TrebleShot/blob/master/FAQ.md).
 
